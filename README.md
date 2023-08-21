@@ -2,7 +2,7 @@
 @rackupdev helps developers simplify building and running cloud based apps
 
 ## What does the platform do? ##
-TLDR: It allows you to define and deploy backend APIs through config files.  It's primarily intended for people that have at least some basic logic/programming skills
+TLDR: Rackup allows you to define and deploy backend APIs through config files.  It's primarily intended for people that have at least some basic logic/programming skills
 but who do not know how (or like) to deal with infastructure, databases, SQL queries, build/deployment pipelines, and all the typical application headaches such as
 authentication, authorization, security, scalability, robustness, versioning, backups, etc...
 
