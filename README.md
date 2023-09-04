@@ -3,7 +3,7 @@
 
 ## What does the platform do? ##
 TLDR: Rackup allows you to define and deploy backend APIs through config files.  It's primarily intended for people that have at least some basic web development skills
-but who do not know how (or like) to deal with infastructure, databases, SQL queries, build/deployment pipelines, and all the typical application headaches such as
+but who do not know how (or like) to deal with infrastructure, databases, SQL queries, build/deployment pipelines, and all the typical application headaches such as
 authentication, authorization, security, scalability, robustness, versioning, backups, etc...
 
 ### Dogfooding ###
